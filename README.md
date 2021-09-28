@@ -8,3 +8,9 @@
 
 <img width="" height="" src="./png/2주차.png"></img>
 
+##3주차
+
+<img width="" height="" src="./png/네이버.png"></img>
+
+<img width="" height="" src="./png/학번.png"></img>
+
