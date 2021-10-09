@@ -28,3 +28,9 @@
 <img width="" height="" src="./png/1.png"></img>
 
 <img width="" height="" src="./png/2.png"></img>
+
+## 6주차 과제 
+
+<img width="" height="" src="./png/넓이.png"></img>
+
+<img width="" height="" src="./png/높이.png"></img>
